@@ -1,1 +1,1 @@
-alert(`Нажмите ок, если вам нравится мой сайт`)
+alert(`Press F to pay respect`)
