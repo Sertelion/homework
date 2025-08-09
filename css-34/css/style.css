@@ -1,0 +1,48 @@
+.some-text1 {
+    font-family: "Open sans", "Arial" serif; 
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    font-weight: 300;
+    font-style: italic;
+}
+.some-text2 {
+    font-family: "Open sans", "Arial" serif; 
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.some-text3 {
+    font-family: "Open sans", "Arial" serif; 
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+.some-text4 {
+    font-family: "Open sans", "Arial" serif; 
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    font-weight: 700;
+    font-style: normal;
+    word-spacing: 30px;
+    color:#EE82EE";
+    }
+
+
+    .some-text5 {
+    font-family: "Open sans", "Arial" serif; 
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 5px;
+    }
