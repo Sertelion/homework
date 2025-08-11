@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.blockpop {
+    background: #b3bac4;
+    overflow: scroll;
+    border: 1px solid #000;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    overflow: auto;
+    max-height: 500px;
+    padding-right: 900px;
+}
+
+.block {
+    background: #a59b80;
+    border: 2px solid #000;
+    border-radius: 30px; 
+    display: inline-block;
+    max-width: 200px;
+    overflow: auto;
+padding: 10px;
+padding-left: 20px;
+margin: 5px;
+}
