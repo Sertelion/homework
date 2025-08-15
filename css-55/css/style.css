@@ -46,7 +46,9 @@ body {
 }
 
 /* ======================================================= */
-
+section {
+margin: 60px 0;
+}
 .hero {
     padding: 120px 0;
     background: url(img/hero-bg.jpg) 10% 50% /cover, no-repeat;
@@ -220,3 +222,4 @@ body {
     margin-bottom: 10px;
 
 }
+
