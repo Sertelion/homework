@@ -10,7 +10,7 @@ body {
 .container {
     max-width: 930px;
     margin: 0 auto;
-    padding: 0 15px;
+    padding: 60px 15px;
     height: 100%;
 }
 
@@ -220,6 +220,7 @@ body {
     margin-bottom: 10px;
 
 }
+
 
 
 
