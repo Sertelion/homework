@@ -1,6 +1,6 @@
 body {
     background: #181E34;
-    font-family: "Montserrat", "Arial" sans-serif;
+    font-family: "Montserrat", "Arial", sans-serif;
     font-size: 16px;
     font-weight: 400px;
     line-height: 150%;
@@ -46,7 +46,6 @@ body {
 }
 
 /* ======================================================= */
-}
 .hero {
     padding: 120px 0;
     background: url(/img/hero-bg.jpg) 10% 50% /cover, no-repeat;
@@ -220,6 +219,7 @@ body {
     margin-bottom: 10px;
 
 }
+
 
 
 
