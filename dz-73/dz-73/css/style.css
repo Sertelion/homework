@@ -1,0 +1,46 @@
+body {
+    background-color: #333;
+}
+
+.flexbox {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 30px;
+}
+
+.container {
+    background: #5f5f5f;
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
+
+.title {
+    color: #5f5f5f;
+    text-align: center;
+    padding-top: 45%;
+}
+
+.blockwhite {
+    width: 0px;
+    height: 30px;
+    display: inline-block;
+    background: #ffffff;
+    position: absolute;
+    top: -29%;
+    left: -95%;
+    transition: width 0.6s ease;
+}
+
+.container:hover .blockwhite {
+    width: 600px;
+}
+.container:hover .title {
+    color: #47fc00;
+    transition-delay: 0.5s;
+    transition-duration: 1s;
+}
