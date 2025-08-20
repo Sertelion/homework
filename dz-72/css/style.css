@@ -4,10 +4,9 @@ body {
 .title {
     color: azure;
     font-size: 60px;
-    text-align: center;
-    position: relative;
     margin-top: 20px;
-    padding-top: center;
+    display: flex;  
+    justify-content: center; 
 }
 .title::before {content: '';
 display: block;
@@ -17,7 +16,7 @@ width: 60px;
 border-radius: 50%;
 background: red;
 position: absolute;
-left: 32%;
+left: 33%;
 }
 .title::after {content: '';
 height: 60px;
@@ -26,5 +25,5 @@ border: 3px solid #ffffff;
 border-radius: 50%;
 background: rgb(99, 42, 255);
 position: absolute;
-transform: translate(37px, 0px);
+transform: translate(190px, 0px);
 }
